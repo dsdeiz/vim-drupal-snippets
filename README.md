@@ -1,4 +1,4 @@
-vim-drupal-snippets
+Vim Drupal Snippets
 ===================
 
-Drupal snippets for Ultisnips.
+Drupal snippets for UltiSnips. Check `UltiSnips directory` for the available snippets.
