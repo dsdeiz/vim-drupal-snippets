@@ -11,7 +11,7 @@ snippet hook_preprocess "hook_preprocess"
 /**
  * Implements hook_preprocess().
  */
-function hook_preprocess(&$variables, $hook) {
+function `!v expand('%:t:r:r')`_preprocess(&$variables, $hook) {
   ${1}
 }
 endsnippet
